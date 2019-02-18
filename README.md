@@ -1,7 +1,7 @@
 # bibliotecasjava
 
 
-MainColecoes:
+<p>MainColecoes:<br />
 	Trabalha com coleções usando HashMap, HashSet e LinkedList 
 MainThreads
 	Trabalha com Threads um exemplo com deposito sincronizado.
