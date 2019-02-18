@@ -1,0 +1,2 @@
+Lendo um arquivo
+que tem várias linhas
