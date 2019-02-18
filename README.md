@@ -1,11 +1,11 @@
-# bibliotecasjava
+##bibliotecasjava##
 
 
 <p>MainColecoes:<br />
 	<p>Trabalha com coleções usando HashMap, HashSet e LinkedList</p>
 <p>MainThreads<br />
-	Trabalha com Threads um exemplo com deposito sincronizado.
+	<p>Trabalha com Threads um exemplo com deposito sincronizado.</p>
 <p>MainIO<br />
-	Trabalha com leitura e escrita de arquivos em disco.
+	<p>Trabalha com leitura e escrita de arquivos em disco.</p>
 <p>MainJavaLang<br />
-	Trabalha com cast de objet, sobre string no que diz respeito aos vários métodos que essa classe possui e sobre o Math que possui varios métodos que ajudam em calculos.
+	<p>Trabalha com cast de objet, sobre string no que diz respeito aos vários métodos que essa classe possui e sobre o Math que possui varios métodos que ajudam em calculos.</p>
