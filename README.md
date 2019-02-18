@@ -2,7 +2,7 @@
 
 
 <p>MainColecoes:<br />
-	Trabalha com coleções usando HashMap, HashSet e LinkedList 
+	<p>Trabalha com coleções usando HashMap, HashSet e LinkedList</p>
 <p>MainThreads<br />
 	Trabalha com Threads um exemplo com deposito sincronizado.
 <p>MainIO<br />
