@@ -1,7 +1,7 @@
 **bibliotecasjava**
 
 
-<h1>MainColecoes:</h1> <br />
+<h1>MainColecoes:</h1>
 	<p>Trabalha com coleções usando HashMap, HashSet e LinkedList</p>
 <h1>MainThreads </h1><br />
 	<p>Trabalha com Threads um exemplo com deposito sincronizado.</p>
