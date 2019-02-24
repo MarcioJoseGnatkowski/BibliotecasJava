@@ -2,9 +2,9 @@
 
 
 <h1>MainColecoes:</h1>
-	<p>Trabalha com coleções usando HashMap, HashSet e LinkedList</p>
-<h1>MainThreads </h1><br />
-	<p>Trabalha com Threads um exemplo com deposito sincronizado.</p>
+Trabalha com coleções usando HashMap, HashSet e LinkedList
+<h1>MainThreads </h1>
+Trabalha com Threads um exemplo com deposito sincronizado.
 <h1>MainIO </h1><br />
     <p>Trabalha com leitura e escrita de arquivos em disco.</p>
 <h1>MainJavaLang </h1><br />
